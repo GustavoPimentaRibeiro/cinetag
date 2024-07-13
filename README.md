@@ -37,4 +37,4 @@ LinkedIn: https://www.linkedin.com/in/gustavo-pimenta-dev/
 
 ## Link de acesso
 
-Acesse o projeto com o [Link do Projeto](https://space-app-rose.vercel.app)
+Acesse o projeto com o [Link do Projeto](https://cinetag-wheat-one.vercel.app)
